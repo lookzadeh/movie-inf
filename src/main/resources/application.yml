@@ -1,0 +1,18 @@
+server:
+  port: 8093
+  tomcat:
+    accesslog:
+      enabled: true
+
+
+spring:
+  application:
+    name:
+      movie-inf
+
+  profiles:
+    active:
+      "@activatedProperties@"
+  jpa:
+    open-in-view: false
+
