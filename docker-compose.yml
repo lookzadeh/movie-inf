@@ -20,4 +20,4 @@ services:
       - '3306'
       # Where our data will be persisted
     volumes:
-      - ~/projects/rasha/movie-inf/db/data:/var/lib/mysql
+      - ~/projects/db/rasha/movie-inf/data:/var/lib/mysql
