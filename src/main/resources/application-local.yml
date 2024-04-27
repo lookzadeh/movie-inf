@@ -34,7 +34,7 @@ spring:
     baseline-version: 0.0.0
     enabled: true
 
-api-key: xcfg9883odjyyteshshe
+api-key: [Yor-API-Key form omdbapi]
 omdb-api-uri : https://www.omdbapi.com/
 omdb-api-key : 38688814
 
